@@ -1,3 +1,9 @@
+# Local directories
+
+build
+.vscode
+.cache
+
 # Prerequisites
 *.d
 
